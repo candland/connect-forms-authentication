@@ -1,0 +1,17 @@
+{
+  "name": "connect-form-authentication",
+  "description": "A simple forms authentication connect middleware",
+  "tags": ["connect","middleware","express","expressjs"],
+  "version": "0.0.1",
+  "author": "Dusty Candland candland@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/candland/connect-forms-authentication.git"
+  },
+  "bugs": "http://github.com/candland/connect-forms-authentication/issues",
+  "engines": ["node >= 0.2.0"],
+  "modules": {
+    "index": "./lib/connect-forms-authentication.js",
+  },
+}
+
