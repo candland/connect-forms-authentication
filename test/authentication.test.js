@@ -27,7 +27,7 @@
 
 // Run $ expresso
 
-var auth = require('../connect-form-authentication')
+var auth = require('../lib/connect-forms-authentication')
 	, sys = require('sys')
 	, crypto = require('crypto')
   , assert = require('assert');

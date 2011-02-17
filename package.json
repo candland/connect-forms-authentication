@@ -1,5 +1,5 @@
 {
-  "name": "connect-form-authentication",
+  "name": "connect-forms-authentication",
   "description": "A simple forms authentication connect middleware",
   "tags": ["connect","middleware","express","expressjs"],
   "version": "0.0.1",
